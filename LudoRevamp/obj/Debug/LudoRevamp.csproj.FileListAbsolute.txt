@@ -1,0 +1,21 @@
+C:\Users\HFGF\source\repos\LudoRevamp\LudoRevamp\obj\Debug\LudoRevamp.csproj.AssemblyReference.cache
+C:\Users\HFGF\source\repos\LudoRevamp\LudoRevamp\obj\Debug\LudoRevamp.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\LudoRevamp\LudoRevamp\bin\Debug\LudoRevamp.exe.config
+C:\Users\HFGF\source\repos\LudoRevamp\LudoRevamp\bin\Debug\LudoRevamp.exe
+C:\Users\HFGF\source\repos\LudoRevamp\LudoRevamp\bin\Debug\LudoRevamp.pdb
+C:\Users\HFGF\source\repos\LudoRevamp\LudoRevamp\obj\Debug\LudoRevamp.exe
+C:\Users\HFGF\source\repos\LudoRevamp\LudoRevamp\obj\Debug\LudoRevamp.pdb
+C:\Users\Khaos\Desktop\Ny Ny Ludo\LudoRevamp\LudoRevamp\bin\Debug\LudoRevamp.exe.config
+C:\Users\Khaos\Desktop\Ny Ny Ludo\LudoRevamp\LudoRevamp\bin\Debug\LudoRevamp.exe
+C:\Users\Khaos\Desktop\Ny Ny Ludo\LudoRevamp\LudoRevamp\bin\Debug\LudoRevamp.pdb
+C:\Users\Khaos\Desktop\Ny Ny Ludo\LudoRevamp\LudoRevamp\obj\Debug\LudoRevamp.csproj.AssemblyReference.cache
+C:\Users\Khaos\Desktop\Ny Ny Ludo\LudoRevamp\LudoRevamp\obj\Debug\LudoRevamp.csproj.CoreCompileInputs.cache
+C:\Users\Khaos\Desktop\Ny Ny Ludo\LudoRevamp\LudoRevamp\obj\Debug\LudoRevamp.exe
+C:\Users\Khaos\Desktop\Ny Ny Ludo\LudoRevamp\LudoRevamp\obj\Debug\LudoRevamp.pdb
+C:\Users\HFGF\Desktop\LudoRevamp\LudoRevamp\bin\Debug\LudoRevamp.exe.config
+C:\Users\HFGF\Desktop\LudoRevamp\LudoRevamp\bin\Debug\LudoRevamp.exe
+C:\Users\HFGF\Desktop\LudoRevamp\LudoRevamp\bin\Debug\LudoRevamp.pdb
+C:\Users\HFGF\Desktop\LudoRevamp\LudoRevamp\obj\Debug\LudoRevamp.csproj.AssemblyReference.cache
+C:\Users\HFGF\Desktop\LudoRevamp\LudoRevamp\obj\Debug\LudoRevamp.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\Desktop\LudoRevamp\LudoRevamp\obj\Debug\LudoRevamp.exe
+C:\Users\HFGF\Desktop\LudoRevamp\LudoRevamp\obj\Debug\LudoRevamp.pdb
